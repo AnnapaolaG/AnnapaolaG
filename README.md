@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Annapaola 👋
 
-<!--
-**AnnapaolaG/AnnapaolaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a philosophy researcher interested in both using computational methods to support philosophical inquiry, and exploring the ethical and methodological questions surrounding AI technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Working On
+- Personal experiments to improve my coding skills  
+- Research projects exploring text data and semantic modeling  
+- Analyses of NLP methods with regard to bias  
+
+---
+
+## 🧠 Interests
+- Philosophy of technology  
+- Digital humanities  
+- AI ethics and methodology  
+
+---
+
+## 🤝 Looking to Collaborate On
+- Projects that apply computational methods to the humanities, especially in relation to (the history of) logic and scientific rationality  
+- Ethical or philosophical investigations into AI systems, particularly regarding (gender) bias in language models  
+
+---
+
+## 📫 Let's Connect
+If you’re working on something aligned or are interested in collaborating, I’d love to connect!  
+Please reach out via my [personal website](https://annapagina.wordpress.com)
